@@ -1,0 +1,119 @@
+{
+	"Format": "ForgerPatch2",
+	"GameEXE": "ACOdyssey",
+	"CollectionTitle": "Nude Alexios Enhanced Muscle Definition",
+	"CollectionVersion": 2,
+	"CollectionID": "NAEMD_ilikedetectives_skylightglare",
+	"Patches":
+	[
+		{
+			"PatchTitle": "Enhanced Muscles with Hair and Scars",
+			"PatchDescription": "Enhances muscles with original hair and scars",
+			"PatchID": "ACD_CHM_P_Alexios_Nude_Body_Enhanced_Muscle_Def_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 1542420440947 ACD_CHM_PLA_B01_BodyAlexios_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\HairScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\HairScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\HairScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\HairScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_3/DataPC_3_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\HairScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\HairScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_ACD_Greece_43_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\HairScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\HairScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},	
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\HairScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\HairScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\HairScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+			]
+		},
+		{
+			"PatchTitle": "Enhanced Muscles with Scars kept, hair removed",
+			"PatchDescription": "Enhanced Muscles and body hair removed",
+			"PatchID": "ACD_CHM_P_Alexios_Nude_Body_Enhanced_Muscle_Def_No_Hair_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 1542420440947 ACD_CHM_PLA_B01_BodyAlexios_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoHair\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoHair\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoHair\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoHair\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_3/DataPC_3_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoHair\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoHair\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_ACD_Greece_43_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoHair\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoHair\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},	
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoHair\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoHair\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoHair\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+			]
+		},
+		{
+			"PatchTitle": "Enhanced Muscles with Hair kept, scars removed",
+			"PatchDescription": "Enhanced Muscles and scars removed",
+			"PatchID": "ACD_CHM_P_Alexios_Nude_Body_Enhanced_Muscle_Def_Scarless_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 1542420440947 ACD_CHM_PLA_B01_BodyAlexios_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_3/DataPC_3_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_ACD_Greece_43_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},	
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\NoScars\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+			]
+		},
+		{
+			"PatchTitle": "Enhanced Muscles, Clean (no hair, no scars)",
+			"PatchDescription": "Enhanced Muscles with scars and body hair removed",
+			"PatchID": "ACD_CHM_P_Alexios_Nude_Body_Enhanced_Muscle_Def_Scarless_No_Hair_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 1542420440947 ACD_CHM_PLA_B01_BodyAlexios_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\Clean\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\Clean\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\Clean\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\Clean\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_3/DataPC_3_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\Clean\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\Clean\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_ACD_Greece_43_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\Clean\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\Clean\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},	
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\Clean\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\Clean\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 1542420440947, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeAlexiosEnhancedMuscleDefinition\\Clean\\Alexios_Nude_Muscle_Body_NormalMap.dds"}]},				
+
+			]
+		}
+	]
+}

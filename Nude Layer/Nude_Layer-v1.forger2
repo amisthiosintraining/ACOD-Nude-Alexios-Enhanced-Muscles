@@ -1,0 +1,45 @@
+{
+	"Format": "ForgerPatch2",
+	"GameEXE": "ACOdyssey",
+	"CollectionTitle": "Nude Layer",
+	"CollectionVersion": 1,
+	"CollectionID": "NL_ilikedetectives_skylightglare",
+	"Patches":
+	[
+		{
+			"PatchTitle": "Nude Layer",
+			"PatchDescription": "Removes underwear to all characters",
+			"PatchID": "ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 1525141375064 ACD_CHS_SHR_BodyShared_New_DiffuseMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * No mipmaps
+				 * Size : 5 592 580 bytes (~5462 KB)
+				 ************************************/
+				{"File": "DataPC_SharedGroup_00.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_12/DataPC_12_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_13/DataPC_ACD_Greece_13_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_14/DataPC_ACD_Greece_14_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_3/DataPC_3_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_3/DataPC_ACD_Greece_3_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_32/DataPC_32_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_33/DataPC_33_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_34/DataPC_34_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_35/DataPC_35_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_35/DataPC_ACD_Greece_35_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_43/DataPC_ACD_Greece_43_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 1525141375064, "Edits": [{"OffsetHex": "E5", "DataFileOffsetHex": "94", "DataFile": "NudeLayer\\ACD_CHS_SHR_BodyShared_NudeVP_DiffuseMap.dds"}]},
+
+			]
+		}
+	]
+}
