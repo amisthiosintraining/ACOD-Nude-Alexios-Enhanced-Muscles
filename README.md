@@ -1,6 +1,8 @@
 # ACOD | 🔞 | Nude Alexios Enhanced Muscle Definition
 A nude version of our Alexios Enhanced Muscle Definition
 
+<img src="https://imgur.com/DJfCxeZ.png" alt="Nude Alexios Enhanced Muscle Front" style="width:220px;"> <img src="https://imgur.com/fxvhx9f.png" alt="Nude Alexios Enhanced Muscle sample" style="width:220px;">
+
 ------
 
 **REQUIREMENTS**
@@ -13,10 +15,13 @@ A nude version of our Alexios Enhanced Muscle Definition
 
 **STEPS**
 1) Go to "code" and "download zip"
-2) Unzip the file to reveal *NudeAlexiosEnhancedMuscleDefinition* folder and *Nude_Alexios_Enhanced_Muscle_Definition-v2.forger2* file and *NudeLayer* folder and *Nude_Layer-v1.forger2* file
-3) Copy and paste the four items *NudeAlexiosEnhancedMuscleDefinition* folder, *Nude_Alexios_Enhanced_Muscle_Definition-v2.forger2*, *NudeLayer* folder and *Nude_Layer-v1.forger2* into "ForgerPatches" folder where ACOdyssey.exe is.
-4) Return to Forger Utility and click "Rescan", and the mod should appear under "Nude Alexios Enhanced Muscle Definition" and "Nude Layer" (two separate mods)
-5) Select ONE option of the *Nude Alexios Enhanced Muscle Definition* and after check the only option under *Nude Layer*. After that you're set. Boot the game and enjoy.
+2) Unzip the file to reveal **NudeAlexiosEnhancedMuscleDefinition** folder and **Nude_Alexios_Enhanced_Muscle_Definition-v2.forger2** file and **NudeLayer** folder and **Nude_Layer-v1.forger2** file
+3) Copy and paste the four items **NudeAlexiosEnhancedMuscleDefinition** folder, **Nude_Alexios_Enhanced_Muscle_Definition-v2.forger2**, **NudeLayer** folder and **Nude_Layer-v1.forger2** into "ForgerPatches" folder where ACOdyssey.exe is.
+4) Make sure you have Outfit Customizer installed. If you haven't downloaded it, do so <a href="https://www.nexusmods.com/assassinscreedodyssey/mods/85">here</a>.
+5) Same as the previous 'Nude Alexios Enhanced Muscle Definition' and 'Nude Layer' drop the 'Outfit Customizer' forger file in ForgerPatches folder. Rescan and check for **Outfit Customizer.** Once you have Outfit Customizer installed, look for *'Outfit Dress'* and check it. A window will pop up with more options. Highlight *'None'* and click select
+6) From there your changes should be applied and ready
+7) Boot up the game, and check that it's all applied.
+8) If you don't see the mod applied, sometimes unchecking those three mods and rechecking helps. Do so in this order 'Nude Alexios Enhanced Muscle Definition', 'Nude Layer' and lastly 'Outfit Customizer'.
 
 **TROUBLESHOOTING**
 <br>Should you encounter a problem installing the mod, click on Reset All Forges in Forger and verify your game files.
