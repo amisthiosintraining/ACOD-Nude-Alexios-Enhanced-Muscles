@@ -7,23 +7,19 @@ A nude version of our Alexios Enhanced Muscle Definition
 - <a href="https://www.nexusmods.com/assassinscreedodyssey/mods/42">Forger 2.10 Utility</a> by hypermorphic
 - <a href="https://www.nexusmods.com/assassinscreedodyssey/mods/85">Outfit Customizer</a> by hypermorphic
 - "NudeAlexiosEnhancedMuscleDefinition" folder
-- Nude_Alexios_Enhanced_Muscle_Definition-v2.zip
+- Nude_Alexios_Enhanced_Muscle_Definition-v2.forger2
 - "NudeLayer" folder
 - Nude_Layer-v1.forger
 
-STEPS
+**STEPS**
 1) Go to "code" and "download zip"
-2) Unzip NudeLayer-v1.zip to reveal Nude_Layer-v1.forger2 and NudeLayer folder
-3) Copy and paste NudeAlexiosEnhancedMuscleDefinition folder and Nude_Alexios_Enhanced_Muscle_Definition-v2.forger2 into "ForgerPatches" folder where ACOdyssey.exe is. 
-4) Same as above, copy and paste NudeLayer folder and Nude_Layer-v1.forger2 into "ForgerPatches"
-5) Make sure you have Outfit Customizer installed. If you haven't downloaded it, do so here﻿ >> https://www.nexusmods.com/assassinscreedodyssey/mods/85
-6) Once you have Outfit Customizer installed, look for 'Outfit Dress' and check it. A window will pop up with more options. Highlight 'None' and click select
-7) After, in Forger Utility, search for 'Nude Alexios Enhanced Muscle Definition' and make ONE selection. Also search for 'Nude Layer' and check the only option there.
-8) Your changes should be applied and ready
-9) Boot up the game, and enjoy.
+2) Unzip the file to reveal *NudeAlexiosEnhancedMuscleDefinition* folder and *Nude_Alexios_Enhanced_Muscle_Definition-v2.forger2* file and *NudeLayer* folder and *Nude_Layer-v1.forger2* file
+3) Copy and paste the four items *NudeAlexiosEnhancedMuscleDefinition* folder, *Nude_Alexios_Enhanced_Muscle_Definition-v2.forger2*, *NudeLayer* folder and *Nude_Layer-v1.forger2* into "ForgerPatches" folder where ACOdyssey.exe is.
+4) Return to Forger Utility and click "Rescan", and the mod should appear under "Nude Alexios Enhanced Muscle Definition" and "Nude Layer" (two separate mods)
+5) Select ONE option of the *Nude Alexios Enhanced Muscle Definition* and after check the only option under *Nude Layer*. After that you're set. Boot the game and enjoy.
 
 **TROUBLESHOOTING**
-Should you encounter a problem installing the mod, click on Reset All Forges in Forger and verify your game files.
+<br>Should you encounter a problem installing the mod, click on Reset All Forges in Forger and verify your game files.
 
 **UBISOFT CONNECT**
 1) Go to "Games"
@@ -35,3 +31,5 @@ Should you encounter a problem installing the mod, click on Reset All Forges in 
 2) Right Click Assassin's Creed Odyssey
 3) Select "Properties" / "Local Files"
 4) Click "Verify Integrity of Game Files" (edited)
+
+Thank you to ilikedetectives for extracting the files and dealing with the forger codes. Thank you to hypermorphic for leaving behind a great legacy of the current Assassin's Creed modding scene, without you, none of this would have been possible. And we would also like to extend our gratitude to Makacha for the patience to both teach and help us along the way through texture modding and coding. Last but not least, we give our gratitude to all those that inspire us, including those that critize us, if anything, it has given us strength to do what we do and do so with enjoyment. Thank you to all.
