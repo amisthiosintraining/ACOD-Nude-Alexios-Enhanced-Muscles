@@ -35,6 +35,6 @@ A nude version of our Alexios Enhanced Muscle Definition
 1) Go to "Games", select "View Game Library"
 2) Right Click Assassin's Creed Odyssey
 3) Select "Properties" / "Local Files"
-4) Click "Verify Integrity of Game Files" (edited)
+4) Click "Verify Integrity of Game Files"
 
 Thank you to ilikedetectives for extracting the files and dealing with the forger codes. Thank you to hypermorphic for leaving behind a great legacy of the current Assassin's Creed modding scene, without you, none of this would have been possible. And we would also like to extend our gratitude to Makacha for the patience to both teach and help us along the way through texture modding and coding. Last but not least, we give our gratitude to all those that inspire us, including those that critize us, if anything, it has given us strength to do what we do and do so with enjoyment. Thank you to all.
