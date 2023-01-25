@@ -1,7 +1,7 @@
 # ACOD | 🔞 | Nude Alexios Enhanced Muscle Definition
 A nude version of our Alexios Enhanced Muscle Definition
 
-<img src="https://imgur.com/DJfCxeZ.png" alt="Nude Alexios Enhanced Muscle Front" style="width:220px;"> <img src="https://imgur.com/fxvhx9f.png" alt="Nude Alexios Enhanced Muscle sample" style="width:220px;">
+<img src="https://imgur.com/DJfCxeZ.png" alt="Nude Alexios Enhanced Muscle Front" style="width:320px;"> <img src="https://imgur.com/fxvhx9f.png" alt="Nude Alexios Enhanced Muscle sample" style="width:320px;">
 
 ------
 
