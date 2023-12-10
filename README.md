@@ -1,9 +1,7 @@
 # ACOD | 🔞 | Nude Alexios Enhanced Muscle Definition
 A nude version of our Alexios Enhanced Muscle Definition
 
-------
-
-**REQUIREMENTS**
+## Requirements
 - <a href="https://www.nexusmods.com/assassinscreedodyssey/mods/42">Forger 2.10 Utility</a> by hypermorphic
 - <a href="https://www.nexusmods.com/assassinscreedodyssey/mods/85">Outfit Customizer</a> by hypermorphic
 - "NudeAlexiosEnhancedMuscleDefinition" folder
@@ -11,7 +9,7 @@ A nude version of our Alexios Enhanced Muscle Definition
 - "NudeLayer" folder
 - Nude_Layer-v1.forger
 
-**STEPS**
+## Installation Steps
 1) Go to "code" and "download zip"
 2) Unzip the file to reveal **NudeAlexiosEnhancedMuscleDefinition** folder and **Nude_Alexios_Enhanced_Muscle_Definition-v2.forger2** file and **NudeLayer** folder and **Nude_Layer-v1.forger2** file
 3) Copy and paste the four items **NudeAlexiosEnhancedMuscleDefinition** folder, **Nude_Alexios_Enhanced_Muscle_Definition-v2.forger2**, **NudeLayer** folder and **Nude_Layer-v1.forger2** into "ForgerPatches" folder where ACOdyssey.exe is.
@@ -21,15 +19,15 @@ A nude version of our Alexios Enhanced Muscle Definition
 7) Boot up the game, and check that it's all applied.
 8) If you don't see the mod applied, sometimes unchecking those three mods and rechecking helps. Do so in this order 'Nude Alexios Enhanced Muscle Definition', 'Nude Layer' and lastly 'Outfit Customizer'.
 
-**TROUBLESHOOTING**
-<br>Should you encounter a problem installing the mod, click on Reset All Forges in Forger and verify your game files.
+## Troubleshooting
+Should you encounter a problem installing the mod, click on Reset All Forges in Forger and verify your game files.
 
-**UBISOFT CONNECT**
+### Ubisoft Connect
 1) Go to "Games"
 2) Under Assassin's Creed Odyssey click on right small arrow
 3) In drop down menu select "Verify Files"
 
-**STEAM**
+### Steam
 1) Go to "Games", select "View Game Library"
 2) Right Click Assassin's Creed Odyssey
 3) Select "Properties" / "Local Files"
